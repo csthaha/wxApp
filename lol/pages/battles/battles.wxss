@@ -1,0 +1,16 @@
+.battles{
+    background-color: rgb(160, 177, 177); 
+    margin-top: 10px;
+}
+.battles .text{
+    display: block;
+   text-align: center;
+   border: 1px solid #000;
+   font-family: "仿宋";
+   color: rgb(243, 0, 0);
+   font-weight: bold;
+   margin-bottom: 20px;
+   height: 50px;
+   background-color: rgb(138, 207, 138);
+   
+}

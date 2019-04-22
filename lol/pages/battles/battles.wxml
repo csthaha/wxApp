@@ -1,0 +1,8 @@
+<view class="battles">
+    <!-- battles -->
+    <block wx:for="{{battles}}" wx:for-item="battle">
+        <text class="text">
+            {{battle.name}} : {{battle.militarySuccesses}}
+        </text>
+    </block>
+</view>
