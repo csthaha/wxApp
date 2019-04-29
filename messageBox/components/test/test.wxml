@@ -1,0 +1,2 @@
+<!--components/test/test.wxml-->
+<test catch:tap="onClick">{{text}}</test>
